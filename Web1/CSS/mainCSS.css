@@ -1,0 +1,15 @@
+h1 {
+    color:blue!important;
+    size: 40cm;
+}
+
+body {
+    background-color: lightblue!important;
+}
+p{
+    size: 150px!important;
+    font-style: bold!important;
+}
+.a{
+    size: 200cm!important;
+}
